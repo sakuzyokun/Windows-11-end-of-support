@@ -30,14 +30,14 @@
 
 > ※ ~XPは非対応です （ただし互換モードで動くかも？）
 
+<!--
 ---
 
 ## 📷 スクリーンショット
 
-<!-- ↓ 適宜画像を貼る -->
 Windows 11 でのSimpleNotepadを起動した様子 (v1.0.0)  
 ![screenshot](https://github.com/sakuzyokun/SimpleNotepad/blob/main/Windows_b1.png?raw=true)  
-
+-->
 ---
 
 ## 🔧 ダウンロード
